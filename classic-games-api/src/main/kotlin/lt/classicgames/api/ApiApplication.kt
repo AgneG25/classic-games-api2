@@ -1,4 +1,4 @@
-package lt.classicgames.api
+package lt.classicgames.api.spring.boot;
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
